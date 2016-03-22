@@ -1,0 +1,2 @@
+# WebScraper
+RSSやWebページのスクレイピングを行う
